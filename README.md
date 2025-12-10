@@ -1,4 +1,4 @@
-# HashiTalks Brazil — Terraform Copilot Lab 🤖🌱
+# HashiTalks Brazil — Terraform Copilot Lab
 
 This repository contains a **hands-on lab** created for **HashiTalks Brazil**, demonstrating how **AI tools (such as GitHub Copilot Chat)** can assist engineers in writing **Terraform code faster, safer, and with better practices**.
 
@@ -46,7 +46,6 @@ This lab is designed to be **practical, opinionated, and easy to follow**.
 ├── terraform/
 │   ├── main.tf
 │   ├── variables.tf
-│   ├── outputs.tf
 │   └── versions.tf
 ├── prompts/
 │   ├── generate-infra.md
